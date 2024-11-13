@@ -1,20 +1,17 @@
 ### Hi there 👋
 안녕하세요! 🙋‍♂️ 저는 현도훈 입니다. 계속해서 성장하고 배우는 자세를 가지고 노력하겠습니다.
-항상 새로운 것을 배우는 것에 주저하지 않고 발전하는 사람이 되고싶어요. 🥰
+항상 새로운 것을 배우는 것에 주저하지 않고 발전하는 사람이 되고싶어요.
 <br />
 <br />
 <br />
 <br />
 
 ## Skills
-#### I use it often.
-<div style="display:flex;gap:30px;flex-wrap:wrap;">
-  <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
-
-#### I've used it before.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+</div>
+<div style="display:flex;gap:30px;flex-wrap:wrap;">
+  <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 <br />
 <br />
